@@ -31,10 +31,4 @@ pingall
 - Packet logs displayed in POX terminal
 - 0 percent packet loss in Mininet
 
-## Screenshots
 
-### POX Output
-![POX Output](screenshots/pox_output.png)
-
-### Mininet Output
-![Mininet Output](screenshots/mininet_output.png)
