@@ -38,4 +38,3 @@ pingall
 
 ### Mininet Output
 ![Mininet Output](screenshots/mininet_output.png)
-
