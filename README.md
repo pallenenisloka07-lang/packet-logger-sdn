@@ -33,10 +33,9 @@ pingall
 
 ## Screenshots
 
-POX Output
+### POX Output
 ![POX Output](screenshots/pox_output.png)
 
-Mininet Output
+### Mininet Output
 ![Mininet Output](screenshots/mininet_output.png)
-
 
